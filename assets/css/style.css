@@ -1,0 +1,29 @@
+body {
+  background: radial-gradient(circle, gray, white) no-repeat center center fixed;
+  background-size: 100%;
+}
+h1{
+	text-align: center;
+}
+sub-heading{
+	text-align: center;
+	font-size: 40pt;
+	font-size: 2vw;
+	color: white;
+	vertical-align: text-bottom;
+	padding: 0px;
+	margin-top: 0px;
+}
+.headingTxt{
+	color: maroon;
+	display-marign: center;
+	font-size: 110px; 
+	font-size: 10vw;
+	font-weight: bold;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+div{
+	text-align: center; 
+	color: white;
+}
